@@ -1,6 +1,6 @@
 I'm a veteran in the area of supply chain management software. 
 
-My expertise and interested are at the intersection of:
+My expertise and interests are at the intersection of:
 - business processes for planning
 - software development
 - data integration
